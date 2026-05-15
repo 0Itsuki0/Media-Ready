@@ -3,7 +3,7 @@
 <h2>Prepare media for sharing in one tap.</h2>
 
 <p align="leading">
-MediaReady makes photos and videos easier to share.
+MediaReady (iOS) makes photos and videos easier to share.
 
 Before sending, quickly:
 
