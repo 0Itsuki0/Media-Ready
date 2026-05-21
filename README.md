@@ -33,11 +33,11 @@ Just prepare and share.
   <img src="./assets/8.jpg" width="180">
 </p>
 
-<!-- ---
+---
 
 ## Download
 
-[Download on the App Store](https://apps.apple.com/us/app/id6767761886) -->
+[Download on the App Store](https://apps.apple.com/us/app/id6769626855)
 
 ---
 
